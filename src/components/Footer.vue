@@ -1,6 +1,8 @@
 <template>
     <footer class="text-center bg-white mt-2" :class="{'fixed-bottom': !isMobile}">
-        <p>Made with <i class="icon ion-md-heart text-danger"></i> and <a href="https://vuejs.org/" title="VueJs" target="_blank"><img src="../assets/logo.png" alt="VueJs"></a></p>
+        <p>
+            Made with <i class="icon ion-md-heart"></i> using <a href="https://vuejs.org/" class="text-reset" target="_blank">VueJs</a>.
+        </p>
     </footer>
 </template>
 
