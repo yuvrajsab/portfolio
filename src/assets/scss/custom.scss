@@ -1,4 +1,6 @@
-
-$enable-gradients: true;
-
+@import "_overrides";
 @import "~bootstrap/scss/bootstrap";
+
+/** ionicons */
+$ionicons-font-path: "~ionicons/dist/fonts";
+@import '~ionicons/dist/scss/ionicons.scss';
