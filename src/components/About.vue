@@ -10,10 +10,10 @@
             </p>
             <p>
                 If you're interested in knowing my technical experience, checkout my  
-                <button class="btn btn-primary btn-sm">
+				<router-link class="btn btn-primary btn-sm" to="/projects" role="button">
                     Projects
                     <i class="icon ion-md-arrow-forward"></i>
-                </button>
+                </router-link>
             </p>
             <p>
                 I’m always open to exciting new project opportunities. Please get in touch, it would be great to hear from you.
