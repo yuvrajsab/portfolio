@@ -23,6 +23,6 @@
 	font-size: 4rem;
 }
 a:hover > i {
-	color: darkslategray;
+	color: var(--gray);
 }
 </style>
