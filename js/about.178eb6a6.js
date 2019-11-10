@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{acca:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("h1",[e._v("projects")])])}],a=n("2877"),u={},l=Object(a["a"])(u,c,r,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=about.178eb6a6.js.map
