@@ -1,5 +1,5 @@
 <template>
-    <img src="../assets/logo.png" class="bg-dark rounded mx-auto shadow" alt="MyFace">
+    <img src="../assets/face.jpg" class="bg-dark rounded mx-auto shadow" alt="MyFace">
 </template>
 
 <script>
